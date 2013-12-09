@@ -1,0 +1,13 @@
+a. What is source control and how is it used in project development? 
+
+ Source control is the management of changes to documents, computer programs, large web sites, and other collections of information, allows distributed work in teams of any size, at different locations, while avoiding conflicts in source code changes.
+ In project development it's usually used by teams, either co-located or distributed. Source control is central to coordinating teams of contributors. It lets one contributor work on a copy of the resources and then release their changes back to the common core when ready. Other contributors work on their own copies of the same resources at the same time, unaffected by each other’s changes until they choose to merge or commit their changes back to the project. Any conflicts that arise - when two contributors independently change the same part of a resource - are automatically flagged when the changes are merged. Such conflicts can then be managed by the contributors.
+
+b. What does it mean to "clone" a repository from Github?
+
+    To "clone" a repository from Github means polling code down from someone Else's Github project onto a collaborator's local machine so the collaborator can check it out and work on it before he pass it back up to Github when he is done.
+ 
+c. What is Github and why should we use it?
+
+    Github is one of the option for hosting remote repositories. We should use it because it's used by millions of other developers but also provides some really nice additional fonctionality that help you manage and work with your project.
+
